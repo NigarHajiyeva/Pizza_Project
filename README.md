@@ -4,7 +4,7 @@
 This pizza application has some possibilities:
 * Login/Logout your account
 * View menu 
-* Adding extensions
+* Adding/Removing extensions
 * Ordering a pizza
 *  As admin view income and order
 
@@ -14,6 +14,6 @@ To start this application:
 * run the root.py file
 
 ## Project details
-* Python 
+* Python3
 * Tkinter
 * SQLite
